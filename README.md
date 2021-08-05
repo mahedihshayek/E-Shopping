@@ -1,3 +1,3 @@
-# E-Shopping 
-# E-Commerce website
-USED : HTML, CSS, JAVASCRIPT, REACT JS, MATERIAL UI, COMMERCE.JS, STRIPE, NETLIFY, FULL RESPONSIVENESS . 
+# E-Shopping is a e-commerce website.
+
+
