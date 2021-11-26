@@ -1,3 +1,3 @@
-# E-Shopping is a e-commerce website.
+# E-Shopping is an e-commerce website.
 
 
